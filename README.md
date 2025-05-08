@@ -1,2 +1,2 @@
-# fnf-vlad-got-bored
-Vlad does things
+# fnf zg-mix
+an friday night funkin remix mod
